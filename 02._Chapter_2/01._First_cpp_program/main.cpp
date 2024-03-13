@@ -13,5 +13,4 @@ int main(){
     std::cout << "Number4" << std::endl;
     return 0;
     // Program ends here
-
 }
